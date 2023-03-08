@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a71e229bc38204687a01461048fd53, type: 3}
+  m_Name: Progress
+  m_EditorClassIdentifier: 
+  ID: 
+  variables:
+  - varName: PlayerName
+    value: MC
+  - varName: Season
+    value: 0
+  - varName: Week
+    value: 0
+  - varName: FavorA
+    value: 0
+  - varName: FavorB
+    value: 0
+  - varName: FavorC
+    value: 0
+  - varName: FavorD
+    value: 0
+  - varName: DialogueA
+    value: 0
+  - varName: DialogueB
+    value: 0
+  - varName: DialogueC
+    value: 0
+  - varName: DialogueD
+    value: 0
+  - varName: BazaarHinder
+    value: 1
+  - varName: Stamina
+    value: 200
+  - varName: Money
+    value: 40
+  - varName: Bank
+    value: 1000
+  - varName: BankMax
+    value: 1000

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f849fe5b9bcba94459206a4a0b29565e, type: 3}
+  m_Name: 00AA0004
+  m_EditorClassIdentifier: 
+  moduleID: 00AA0004
+  targetID: 00AA0005
+  SpeakerName: School Teacher
+  BG_SpriteName: school_hall
+  Char_SpriteName: 
+  doFadeIn: 1
+  doFadeOut: 1
+  textLines:
+  - Dear students...
+  - Today marks another milestone in your education...
+  - And one step closer to the beginning of your lives.
+  - Parents and visitors...
+  - Welcome to the Vioresie State High graduation ceremony of Class 2018!
+  - To start our ceremony, let us first welcome the students who are going to be
+    graduating today.
+  options: []

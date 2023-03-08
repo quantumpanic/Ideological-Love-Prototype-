@@ -1,0 +1,9 @@
+ID:AA0003
+Target:AA0004
+Speaker:MC
+BG:school_hall
+Sprite:MC
+FadeIn:N
+FadeOut:N
+Line:001:Uh.....
+Line:002:Hi?

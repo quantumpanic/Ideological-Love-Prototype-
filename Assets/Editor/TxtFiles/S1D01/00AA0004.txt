@@ -1,0 +1,13 @@
+ID:00AA0004
+Target:00AA0005
+Speaker:School Teacher
+BG:school_hall
+Sprite:
+FadeIn:Y
+FadeOut:Y
+Line:001:Dear students...
+Line:002:Today marks another milestone in your education...
+Line:003:And one step closer to the beginning of your lives.
+Line:004:Parents and visitors...
+Line:005:Welcome to the Vioresie State High graduation ceremony of Class 2018!
+Line:006:To start our ceremony, let us first welcome the students who are going to be graduating today.

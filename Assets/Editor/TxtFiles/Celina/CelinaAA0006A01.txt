@@ -1,0 +1,11 @@
+ID:AA0006A01
+Target:AA0007
+Speaker:Celina
+BG:school_hall
+Sprite:Celina
+FadeIn:N
+FadeOut:N
+Line:001:WHA-
+Line:002:Eheheh...
+Line:003:If that's the case
+Line:004:I can't help it either.

@@ -1,0 +1,8 @@
+ID:AA0005
+Target:AA0006
+Speaker:MC
+BG:school_hall
+Sprite:MC
+FadeIn:N
+FadeOut:N
+Line:001:I guess so?

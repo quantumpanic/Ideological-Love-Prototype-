@@ -1,0 +1,19 @@
+ID:AA0001
+Target:AA0002
+Speaker:Student
+BG:school_hall
+Sprite:
+FadeIn:Y
+FadeOut:Y
+Line:001:*A girl seems to be walking this way*
+Line:002:...
+Line:003:*Yeah...*
+Line:004:*She's definitely coming my way*
+Line:005:*Is she about to talk to me?*
+Line:006:*I wonder why?*
+Line:007:*Were we in the same class?*
+Line:008:*I can't remember*
+Line:009:*I think I saw her earlier sitting in the front row*
+Line:010:*Maybe she wants to ask about notes*
+Line:011:*Wasn't she paying attention in class?*
+Line:012:*She's coming closer...*

@@ -1,0 +1,8 @@
+ID:00AA0005
+Target:00AA0006
+Speaker:Crowd
+BG:school_hall
+Sprite:
+FadeIn:Y
+FadeOut:N
+Line:001:*Applause*

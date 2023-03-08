@@ -1,0 +1,12 @@
+ID:00AA0002
+Target:00AA0003
+Speaker:MC
+BG:school_classroom
+Sprite:MC
+FadeIn:Y
+FadeOut:N
+Line:001:Huh? 
+Line:002:I think I heard something.
+Line:003:It came from the hallway...
+Line:004:I better check out what it is.
+Line:005:*Leaves the classroom*

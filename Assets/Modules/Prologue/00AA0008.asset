@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f849fe5b9bcba94459206a4a0b29565e, type: 3}
+  m_Name: 00AA0008
+  m_EditorClassIdentifier: 
+  moduleID: 00AA0008
+  targetID: 
+  SpeakerName: MC
+  BG_SpriteName: school_hall
+  Char_SpriteName: 
+  doFadeIn: 0
+  doFadeOut: 1
+  textLines:
+  - 'Thank you for letting me give this speech on such a special occassion. '
+  - I wish to start by expressing my gratitude for all friends, families and teachers
+    involved.
+  - It has been a long journey to get where we are today.
+  - I believe that we would not be here without the help of others
+  - who have always been with us since we stepped into this school.
+  - It comes as a great delight to finally make it through 3 years of school.
+  - 'We did not simply idle through those years, but weathered them with hard work
+    and determination. '
+  - And all that hard work has come to fruition, evident in the fact that we are
+    all gathered in this room.
+  - We have reached the gateway to a higher education where we will start the struggle
+    anew.
+  - I remember the story of Sisyphus who was damned to push a boulder up a hill
+  - only to see it tumble down again for all eternity.
+  - 'Despite this, Sisyphus learned to be content with his perpetual strife. '
+  - What we can learn from Sisyphus is that even though it is our duty to endlessly
+    pursue knowledge
+  - We alone determine whether it comes as a burden or a great pleasure.
+  - Ultimately, achievements do not matter, but what you do for society in spite
+    of them.
+  - I hope a very bright future for all my friends.
+  - May your journey be just as promising and full of surprises as this day.
+  - 'Thank you for listening to my speech. Godspeed.  '
+  options: []

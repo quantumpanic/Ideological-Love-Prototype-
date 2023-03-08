@@ -1,0 +1,14 @@
+ID:AA0011
+Target:AA0002
+Speaker:MC
+BG:school_hall
+Sprite:MC_sprite
+FadeIn:Y
+FadeOut:N
+Line:001:Sentence one
+Line:002:Sentence two
+Line:003:Three
+Line:004:Four
+Line:005:Five
+Option:01:Choice 1:AA0003
+Option:02:Choice 2:AA0004

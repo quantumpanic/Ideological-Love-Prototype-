@@ -1,0 +1,11 @@
+ID:AA0007
+Target:AA0008
+Speaker:Celina
+BG:school_hall
+Sprite:Celina
+FadeIn:N
+FadeOut:N
+Line:001:So, anyway...
+Line:002:My name's Celina!
+Line:003:Pleased to meet you!
+Line:004:Are you taking the same courses as mine by the way?

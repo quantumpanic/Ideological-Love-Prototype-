@@ -1,0 +1,12 @@
+ID:AA0011
+Target:AA0002
+Speaker:MC
+BG:
+Sprite:
+FadeIn:Y
+FadeOut:N
+Line:001:ngentot blabakan
+Line:002:fuck this colonizer ass langue
+Line:003:berak di kebon
+Line:004:kecelakaan beruntun
+Line:005:gila gila gila

@@ -1,0 +1,12 @@
+ID:AA0012
+Target:AA0003
+Speaker:Kecelakaan
+BG:
+Sprite:
+FadeIn:Y
+FadeOut:N
+Line:001:buset gila sih men
+Line:002:lu islam bukan sih
+Line:003:pipis di selokan
+Line:004:bleberan itu tai
+Line:005:hikari gendo mentioned

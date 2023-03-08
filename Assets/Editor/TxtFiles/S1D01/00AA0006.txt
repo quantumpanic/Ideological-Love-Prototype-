@@ -1,0 +1,9 @@
+ID:00AA0006
+Target:00AA0007
+Speaker:School Teacher
+BG:school_hall
+Sprite:
+FadeIn:Y
+FadeOut:N
+Line:001:You have chosen someone to represent.
+Line:002:May we welcome him.

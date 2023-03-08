@@ -1,0 +1,27 @@
+ID:00AA0008
+Target:00AA0009
+Speaker:MC
+BG:school_hall
+Sprite:
+FadeIn:Y
+FadeOut:N
+Line:001:Thank you for letting me give this speech on such a special occassion. 
+Line:002:I wish to start by expressing my gratitude for all friends, families and teachers involved.
+Line:003:It has been a long journey to get where we are today.
+Line:004:I believe that we would not be here without the help of others
+Line:005:who have always been with us since we stepped into this school.
+Line:006:It comes as a great delight to finally make it through 3 years of school.
+Line:007:We did not simply idle through those years, but weathered them with hard work and determination. 
+Line:008:And all that hard work has come to fruition, evident in the fact that we are all gathered in this room.
+Line:009:We have reached the gateway to a higher education where we will start the struggle anew.
+Line:010:I remember the story of Sisyphus who was damned to push a boulder up a hill
+Line:011:only to see it tumble down again for all eternity.
+Line:012:Despite this, Sisyphus learned to be content with his perpetual strife. 
+Line:013:What we can learn from Sisyphus is that even though it is our duty to endlessly pursue knowledge
+Line:014:We alone determine whether it comes as a burden or a great pleasure.
+Line:015:Ultimately, achievements do not matter, but what you do for society in spite of them.
+Line:016:I hope a very bright future for all my friends.
+Line:017:May your journey be just as promising and full of surprises as this day.
+Line:018:Thank you for listening to my speech. Godspeed.  
+
+

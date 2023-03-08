@@ -1,0 +1,8 @@
+ID:AA0004
+Target:AA0005
+Speaker:Celina
+BG:school_hall
+Sprite:Celina
+FadeIn:N
+FadeOut:N
+Line:001:You're from the same class as me!

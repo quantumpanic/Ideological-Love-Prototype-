@@ -1,0 +1,9 @@
+ID:AA0008
+Target:AA0009
+Speaker:MC
+BG:school_hall
+Sprite:MC
+FadeIn:N
+FadeOut:N
+Line:001:Yeah. I guess.
+Line:002:Why'd you ask?

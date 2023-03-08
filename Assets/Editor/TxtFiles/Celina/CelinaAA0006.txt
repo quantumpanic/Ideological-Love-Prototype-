@@ -1,0 +1,15 @@
+ID:AA0006
+Target:
+Speaker:Celina
+BG:school_hall
+Sprite:Celina
+FadeIn:N
+FadeOut:N
+Line:001:So...
+Line:002:I kind of missed a few things during the lecture.
+Line:003:Were you taking notes during the class?
+Line:004:I hope you were! Heheh...
+Line:005:If you don't mind...
+Line:001:I wonder if you could share your notes with me.
+Option:A:Hell no!:AA0006A01
+Option:B:Why not?:AA0006B01

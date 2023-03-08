@@ -1,0 +1,12 @@
+ID:00AA0003
+Target:00AA0004
+Speaker:PA Speaker
+BG:school_hallway
+Sprite:
+FadeIn:Y
+FadeOut:Y
+Line:001:Attention to all students of Vioresie State High... 
+Line:002:The graduation ceremony will begin soon.
+Line:003:Please proceed to the school's audiotorium
+Line:004:Thank you.
+Line:005:*Silence*

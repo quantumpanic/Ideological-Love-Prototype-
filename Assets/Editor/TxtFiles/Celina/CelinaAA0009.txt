@@ -1,0 +1,13 @@
+ID:AA0009
+Target:AA0010
+Speaker:Celina
+BG:school_hall
+Sprite:Celina
+FadeIn:N
+FadeOut:N
+Line:001:Mmmmmm....
+Line:002:No reason!
+Line:003:He heh...
+Line:004:Well...
+Line:005:Was really nice talking to you!
+Line:006:See you again next class, alright?

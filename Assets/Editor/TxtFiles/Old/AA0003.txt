@@ -1,0 +1,12 @@
+ID:AA0013
+Target:AA0004
+Speaker:mencret
+BG:
+Sprite:
+FadeIn:Y
+FadeOut:N
+Line:001:john lennon liberal ngentot
+Line:002:daripada baca das kapital mending lu baca quran
+Line:003:hanya ISLAM adalah kebenaran sejati
+Line:004:semua agama salah cuman ISLAM yang bener
+Line:005:wah gila sih men

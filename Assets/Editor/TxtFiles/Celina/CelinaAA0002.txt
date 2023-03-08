@@ -1,0 +1,8 @@
+ID:AA0002
+Target:AA0003
+Speaker:Student
+BG:school_hall
+Sprite:Celina
+FadeIn:Y
+FadeOut:N
+Line:001:Hi!

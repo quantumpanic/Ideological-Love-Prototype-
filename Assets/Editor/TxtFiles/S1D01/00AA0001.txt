@@ -1,0 +1,12 @@
+ID:00AA0001
+Target:00AA0002
+Speaker:MC
+BG:school_classroom
+Sprite:MC
+FadeIn:Y
+FadeOut:N
+Line:001:It's almost time for my graduation 
+Line:002:*Leans over the wall*
+Line:003:I wonder if i have done good enough
+Line:004:But, eh, whatever....
+Line:005:I'm graduating today anyway.

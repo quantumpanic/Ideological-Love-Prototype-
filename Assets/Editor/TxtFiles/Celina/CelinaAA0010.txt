@@ -1,0 +1,11 @@
+ID:AA0010
+Target:
+Speaker:MC
+BG:school_hall
+Sprite:MC
+FadeIn:N
+FadeOut:Y
+Line:001:Uh...
+Line:002:Yeah...
+Line:003:Okay, I guess?
+Line:004:Eheh...

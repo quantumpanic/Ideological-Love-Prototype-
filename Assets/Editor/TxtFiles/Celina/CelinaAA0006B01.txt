@@ -1,0 +1,11 @@
+ID:AA0006B01
+Target:AA0007
+Speaker:Celina
+BG:school_hall
+Sprite:Celina
+FadeIn:N
+FadeOut:N
+Line:001:R-really?
+Line:002:That's so kind of you...!
+Line:003:Thanks a lot!
+Line:004:Really, you're saving my butt here.
